@@ -1,2 +1,0 @@
-user_name=joker
-passeord=rtx00
